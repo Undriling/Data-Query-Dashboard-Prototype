@@ -33,7 +33,7 @@ const QueryInput = () => {
   };
 
   return (
-    <div className="p-4">
+    <div className="p-4 mt-5">
       <form onSubmit={handleQuerySubmit} className="flex flex-col space-y-2">
         <input
           type="text"
