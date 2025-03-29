@@ -52,7 +52,8 @@ plugins: [
 - recharts
 - react-icons
 
-## Project Goal :-
+# About Project
+## Goal :-
 - Users enter a query (like "Total sales in 2023?")
 - The system simulates AI processing and returns mock data
 - Query history is saved in Redux state
